@@ -4,6 +4,6 @@ Used mapreduce  on a Hadoop environment at Center for Computational Research (CC
 
 **Dataset**: CSV records of 2970 stocks spanning over 3 years (~30,000 files, 30 mn rows).Each file contains the data for one stock using its symbol as the file name. A stock list file is provided for cross reference.
 
-**References**: [MapReduce: Simplified Data Processing on Large Clusters](http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
+**References**: [MapReduce: Simplified Data Processing on Large Clusters by Jeffrey Dean & Sanjay Ghemawat](http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
 
 Details about stock volatility [here] (http://stockcharts.com/school/doku.php?id=chart_school:technical_indicators:standard_deviation_volatility)
